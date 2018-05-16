@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentTrial</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="welcome_in_fragment_1">welcome_in_fragment_1</string>
+    <string name="go_to_fragment_1">Go to Fragment 1</string>
+    <string name="go_to_activity">Go to Activity</string>
+    <string name="welcome">we</string>
+    <string name="ad">welcome in fragment 2</string>
+    <string name="welcome_in_second_layout">Welcome in second layout</string>
+    <string name="sad">Go to fragment 2</string>
+</resources>
